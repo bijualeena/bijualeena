@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/8d/b7/46/8db746ea0f28bdd22eae8b3ee10ac16a.gif" alt="Image Description" length="2000px" width="600px">
 </div>
 <h1 align="center">Hi 👋, I'm Aleena Biju.</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">Software engineer at Capgemini</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
